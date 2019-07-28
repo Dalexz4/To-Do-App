@@ -2,4 +2,4 @@
 
 ### Author: Ayoola Daniel
 
-https://github.com/Dalexz4/To-do-app.github.io/blob/master/TO-DO%20App%20Snippet.PNG?raw=true
+Mockup: https://github.com/Dalexz4/To-do-app.github.io/blob/master/Snippet.PNG?raw=true
