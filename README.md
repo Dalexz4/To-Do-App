@@ -1,3 +1,5 @@
-###To-Do List App built with HTML, CSS and JavaScript
+# To-Do List App built with HTML, CSS and JavaScript
 
-# Author: Ayoola Daniel
+### Author: Ayoola Daniel
+
+TO-DO App Snippet.PNG
